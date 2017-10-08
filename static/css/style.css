@@ -1,0 +1,323 @@
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+    margin-bottom: 60px;
+    background: #f0f9f7;
+}
+.about_company{
+    margin-top: 30px;
+}
+.friends_wrapper{
+    margin-top: 20px;
+}
+.ava_friend{
+    width: 40px;
+    height: 40px;
+}
+.img-responsive{
+    border-radius: 15px;
+}
+.bas-well{
+    margin-top: 20px;
+    padding-top: 10px;
+    background: #ffffff;
+    border-radius: 10px;
+}
+.content{
+    margin-top: 35px;
+}
+.content-well{
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.main{
+	width: 100%;
+	background: #3990dc;
+}
+.info1 {
+    background-color: #ffffff;
+    border-radius: 10px;
+
+}
+.info1 >div{
+    margin-top: 10px;
+}
+
+.reg_head_btn{
+    width: 100%;
+    margin-top: 7px !important;
+}
+
+
+.login_head_btn{
+    width: 100%;
+    margin-top: 2px;
+}
+.exit_head_btn{
+    width: 100%;
+    margin-top: 2px;
+}
+.error-container{
+    max-width: 750px;
+    background: #ffffff;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.header_logo {
+    background:  no-repeat;
+    background-size: 50px;
+    width: 50px;
+    height: 47px;
+
+}
+.well-my-foto{
+    margin-top: 20px;
+    background: #ffffff;
+}
+.well-my-foto-in{
+    margin: 5px;
+}
+.error{
+    float:right;
+    margin: 7px 0 7px 7px;
+}
+.my-foto{
+    height: 115px;
+    width: 115px;
+
+}
+.nav_btn{
+    list-style-type: none;
+}
+
+.info h1{
+	color: red;
+	padding-top: 3%;
+    text-align: center;
+}
+.info p{
+    color: #000000;
+}
+
+
+.systemFieldText {
+    font-size: 16px;
+}
+.registration_wrapper {
+    margin-top: 35px;
+	width: 100%;
+	text-align: center;
+}
+
+.registration {
+
+    width: 300px;
+    display: inline-block;
+    text-align: left;
+}
+.foto-messeges-name{
+    line-height: 16px;
+    padding-left: 15px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 19px;
+
+}
+.foto-friend-name{
+    line-height: 16px;
+    padding-left: 15px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 16px;
+}
+.post_author{
+    line-height: 16px;
+    padding-right: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.post_image_well{
+    width: 50px;
+    height: 50px;
+    display: block;
+    float: left;
+    margin-left: 10px;
+
+}
+.systemBtn {
+	width: 100%;
+}
+.nav-well{
+    padding: 20px 10px 10px 10px;
+    background: #ffffff;
+    border-radius: 10px;
+}
+.nav-well li{
+    list-style-type: none;
+    color: #000000;
+}
+
+.user_menu li {
+	list-style-type: none;
+	width: 100%;
+    background: #ffffff;
+    padding: 1px;
+}
+
+.user_menu_text {
+	margin-left: 5px;
+	display: inline-block;
+}
+
+.user_menu_link {
+	width: 100%;
+	display: inline-block;
+}
+.post_author{
+    padding-left: 10px;
+}
+.post_text{
+    padding: 15px;
+
+}
+.post_data{
+    padding-left: 10px;
+}
+.pets_avatars_wrapper {
+    position: absolute;
+   /* bottom: 0;*/
+  margin-bottom: 60px;
+    right: 27px;
+}
+
+.pet_avatar_wrapper {
+    display: inline;
+}
+
+.pet_avatar {
+    float: right;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    border: 3px solid #fff;
+    background-size: cover;
+    margin-right: -10px;
+
+}
+.mess-status-conf{
+    padding-top: 5px;
+    font-size: 14.5px;
+}
+.name_master{
+    text-align: center;
+}
+.name-friends{
+    margin-top: 2px;
+    margin-bottom: 10px;
+    text-align: left;
+    font-size: 16px;
+    padding-bottom: 5px;
+}
+.mess-status{
+    padding: 10px 0 10px 10px;
+    background: #ffffff;
+    border-radius: 8px;
+}
+.friends-list-gr{
+    height: 100%;
+    padding: 10px 0 50px 10px;
+    background: #ffffff;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+.mess-new{
+    padding-left: 25px;
+}
+.mess-post{
+    padding: 10px;
+    background: #ffffff;
+    border-radius: 8px;
+    margin-top: 15px;
+    max-width: 650px;
+}
+.friends-list-search{
+    padding: 5px 0 0 5px;
+}
+.search-mess{
+    background: #ffffff;
+    border-radius: 8px;
+    padding: 10px;
+
+}
+.friends-list{
+    background: #ffffff;
+    border-radius: 5px;
+    padding: 5px;
+
+}
+.foto_friends_well{
+
+    margin-top: 15px;
+    background: #ffffff;
+    border-radius: 15px;
+    padding: 20px;
+    font-size: 14px;
+    text-align: center;
+}
+.foto-friend-list{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 3px solid #fff;
+    background-size: cover;
+}
+.foto-messeges{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 3px solid #fff;
+    background-size: cover;
+
+}
+.new_s{
+    color: #2b669a;
+    text-align: center;
+}
+
+.foto_friends{
+    width: 45px;
+    height: 45px;
+}
+.ImageGrid{
+    border-radius: 5px;
+    background: #ffffff;
+    text-align: center;
+}
+.img_profile_all{
+    max-width: 200px ;
+
+}
+.news_profile{
+    background: #ffffff;
+    border-radius: 5px;
+    padding: 5px;
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 30px;
+  background-color: #3990dc;
+  text-align: center;
+}
+
+.footer_link{
+	margin-right: 5px;
+    color: white;
+}
+
